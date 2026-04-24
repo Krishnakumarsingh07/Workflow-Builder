@@ -27,7 +27,9 @@ The application is split into two parts:
 ### 1. Start the Backend Server
 
 cd backend
+
 npm install
+
 npm run dev
 
 The mock API will run on `http://localhost:5000`.
@@ -37,7 +39,21 @@ The mock API will run on `http://localhost:5000`.
 In a new terminal window:
 
 cd frontend
+
 npm install
+
 npm run dev
 
 The application will open on `http://localhost:5173`.
+
+
+
+<img width="1913" height="916" alt="gp1" src="https://github.com/user-attachments/assets/af23ca0c-f5d6-4adb-8bc4-01ff3dbe0462" />
+
+
+<img width="1912" height="967" alt="p2" src="https://github.com/user-attachments/assets/ba91ae97-8cb1-4d5b-8779-decaae1a96cd" />
+
+
+<img width="1905" height="970" alt="p3" src="https://github.com/user-attachments/assets/25a1b6cd-1453-4482-9c12-593500d60ed7" />
+
+
